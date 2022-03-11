@@ -1,0 +1,30 @@
+{
+    background:#efefee;
+    font-family: arial;
+}
+h1{
+    font-size: 18px;
+}
+a{
+    color: #00000;
+    text-decoration: underline;
+}
+a :hover{
+    color: #0000;
+    text-decoration: none;
+} 
+h2 {
+    font-size: 20px;
+}
+p{
+    font-size: 20px;
+}
+td
+{
+    text-align: center;
+    color:blue;
+}
+th
+{
+    margin-left: 50px;
+}
